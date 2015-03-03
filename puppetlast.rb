@@ -9,7 +9,7 @@
 #
 # Requires:	puppet
 #
-# Author:	Ade Rixon, eLINIA
+# Author:	Ade Rixon
 #
 # History:
 #	20120511: Created - ajr
